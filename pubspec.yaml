@@ -1,0 +1,20 @@
+name: sibna
+description: "A robust and independent Flutter SDK for advanced data handling and seamless integration."
+version: 1.0.0
+homepage: "https://pub.dev/packages/sibna"
+repository: "https://github.com/sibna/sibna"
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
